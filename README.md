@@ -3,7 +3,7 @@
 
 ### 1. Création de dépot
   * init : Crée un nouveau dépot Git vide
-  * clone : clone un dépot dans un nouveau dossier
+  * clone : Clone un dépot dans un nouveau dossier
   * fetch : va chercher les fichiers d'un autre dépot
   * pull : fetch puis merge
   * push : met à jour un dépot à partir du dépot actuel

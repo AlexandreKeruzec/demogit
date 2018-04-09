@@ -2,7 +2,7 @@
 # Commandes Git
 
 ### 1. Création de dépot
-  * init : crée un nouveau dépot Git vide
+  * init : Crée un nouveau dépot Git vide
   * clone : clone un dépot dans un nouveau dossier
   * fetch : va chercher les fichiers d'un autre dépot
   * pull : fetch puis merge
